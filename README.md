@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mahesh kumar — a passionate Cloud Developer, Web Developer, and ECE Student at MLRITM.</br>🚀 I love building dynamic, responsive websites and working on cloud solutions.</br>🛠️ Skilled in HTML, CSS, JavaScript, Python, C, and AWS Cloud Services.</br><br>🌱 Currently learning DevOps, Docker, and Advanced Cloud Architecture.</br>🎯 Always open to collaborations, hackathons, and exciting tech opportunities.</br><br>📈 Committed to continuous learning and creating impactful projects.</br><br>"Building today for a better tomorrow."<br>Let's connect and grow together!
+👋 Hi, I'm Mahesh kumar — a passionate Cloud Developer, Web Developer, and ECE Student at MLRITM.</br>🚀 I love building dynamic, responsive websites and working on cloud solutions.</br>🛠️ Skilled in HTML, CSS, JavaScript, Python, C, and AWS Cloud Services.</br>🌱 Currently learning DevOps, Docker, and Advanced Cloud Architecture.</br>🎯 Always open to collaborations, hackathons, and exciting tech opportunities.</br>📈 Committed to continuous learning and creating impactful projects.</br><br>"Building today for a better tomorrow."<br>Let's connect and grow together!
 
 
 ## 🌐 Socials:
